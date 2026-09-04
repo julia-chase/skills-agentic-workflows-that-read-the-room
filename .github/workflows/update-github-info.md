@@ -30,9 +30,11 @@ safe-outputs:
 
 # Update GitHub Info
 
+
 Keep [site/content/github-info.md](../../site/content/github-info.md) current with the latest
 GitHub Blog posts, Changelog entries, and Awesome Copilot workflows, following Mona's editorial
 notes.
+
 
 ## Steps
 

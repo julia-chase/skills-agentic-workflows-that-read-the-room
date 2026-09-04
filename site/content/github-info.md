@@ -7,6 +7,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - docs.github.com
 - github.blog
 - github.blog/changelog
+- awesome-copilot.github.com/workflows
 
 ## Current homepage themes
 

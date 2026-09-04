@@ -42,10 +42,12 @@ notes.
 3. Fetch `https://github.blog/changelog/` to review the latest GitHub Changelog entries.
 4. Fetch `https://awesome-copilot.github.com/workflows/` to review the latest Awesome Copilot
    workflows.
-5. Update `site/content/github-info.md` with short, practical summaries of anything new or
+5. If fetching Awesome Copilot workflows fails, continue the workflow and make a small update to
+  `site/content/github-info.md` using the available sources and local repository context.
+6. Update `site/content/github-info.md` with short, practical summaries of anything new or
    noteworthy from those sources, following Mona's notes (keep summaries short and
    practical, prefer updates that help developers learn GitHub faster, and mention the source
    whenever a change comes from the GitHub Blog, GitHub Changelog, or Awesome Copilot).
-6. Open a pull request with the updated file so Mona can review the changes before they go live.
+7. Open a pull request with the updated file so Mona can review the changes before they go live.
 
 If there is nothing new to add since the last update, do not open a pull request.
